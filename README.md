@@ -1,2 +1,2 @@
 # Data-Analysis-in-Spreadsheets
-My journey learning Data science in Excel and google sheets
+This is a documentation of my learning process as I learn how to use MS Excel and Google sheets for data analysis.
